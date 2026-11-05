@@ -1,0 +1,11 @@
+{
+  "name": "shortlist",
+  "version": "0.1.0",
+  "description": "Шорт-лист — по описанию вакансии строит профиль кандидата, поисковые запросы и ссылки для поиска; после загрузки резюме — таблица «Да / Подумать / Нет» с причиной и вопросами для звонка.",
+  "author": {
+    "name": "labopsai"
+  },
+  "homepage": "https://labopsai.pro",
+  "license": "MIT",
+  "keywords": ["hr", "shortlist", "recruitment", "resume", "candidate", "hiring"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "labopsai-shortlist",
+  "owner": {
+    "name": "labopsai"
+  },
+  "metadata": {
+    "description": "Капсула labopsai «Шорт-лист» — поиск кандидатов, ранжирование резюме, таблица да/нет/под-вопросом",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "shortlist",
+      "source": "./plugins/shortlist",
+      "description": "Шорт-лист — от вакансии к ранжированному списку кандидатов: поиск, оценка резюме, вопросы для звонка",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "hr",
+        "shortlist",
+        "recruitment",
+        "resume",
+        "candidate",
+        "hiring"
+      ]
+    }
+  ]
+}
